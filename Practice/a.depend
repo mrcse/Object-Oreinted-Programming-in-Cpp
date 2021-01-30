@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1565111484 source:c:\users\jamshid ali\desktop\c++ oops\practice\main.cpp
+	<iostream>
+	<string>
+
+1574969991 source:d:\dcse\3rd semester\oop\c++ oops practice\practice\main.cpp
+	<iostream>
+	<sstream>
+

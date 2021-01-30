@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574770123 source:d:\dcse\3rd semester\oop\c++ oops practice\standard exception (stdexcept)\main.cpp
+	<iostream>
+	<stdexcept>
+

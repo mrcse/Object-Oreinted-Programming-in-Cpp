@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574772986 source:d:\dcse\3rd semester\oop\c++ oops practice\user define exception\main.cpp
+	<iostream>
+	<exception>
+
