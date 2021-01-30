@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575916756 source:d:\dcse\3rd semester\oop\c++ oops practice\file handling(i,o,fstream)\main.cpp
+	<iostream>
+	<fstream>
+
